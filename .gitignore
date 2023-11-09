@@ -1,2 +1,5 @@
 /old
-/pdfs
+/pdfs/*
+/dados/*
+.vscode/
+.ipynb_checkpoints
