@@ -1,5 +1,6 @@
-/old
-/pdfs/*
-/dados/*
-.vscode/
+old
+pdfs/*
+dados/*
+.vscode
 .ipynb_checkpoints
+.venv'
