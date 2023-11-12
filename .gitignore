@@ -3,4 +3,5 @@ pdfs/*
 dados/*
 .vscode
 .ipynb_checkpoints
-.venv'
+.venv
+env/*
