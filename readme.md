@@ -4,7 +4,7 @@
 
 Facilitar o acesso aos dados do Centrais de Abastecimento do Estado do Rio de Janeiro S.A (CEASA-RJ) por meio de um processo automatizado de coleta, transformação e análise de dados.
 
-![diagrama de fluxo do projeto: coleta, tranformação, armagenamento e visualização](./img/Diagram.png)
+![diagrama de fluxo do projeto: coleta, transformação, armazenamento e visualização](./img/Diagram.png)
 
 ## Motivação
 
