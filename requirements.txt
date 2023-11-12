@@ -97,3 +97,4 @@ wcwidth==0.2.9
 Werkzeug==0.16.1
 xxhash==3.4.1
 yarl==1.9.2
+pyarrow==14.0.0
