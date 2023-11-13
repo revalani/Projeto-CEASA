@@ -33,7 +33,7 @@ A necessidade de disponibilizar informações do CEASA-RJ de maneira mais acess�
 
 ## Pendente
 
-- Implementação do Docker file para facilitar a replicação do ambiente.
+- Implementação de embiente virtual (env) para replicação do ambiente.
 
 ## Tecnologias Utilizadas
 
