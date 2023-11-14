@@ -1,8 +1,11 @@
+python-dotenv
+
 beautifulsoup4==4.12.2
 requests
 pandas==2.1.2
-pdfplumber==0.10.3
 
+pdfplumber==0.10.3
 PyPDF2==3.0.1
+
 pyarrow==14.0.0
 fastparquet

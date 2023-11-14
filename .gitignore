@@ -1,10 +1,9 @@
-old
 .vscode
 .ipynb_checkpoints
-.venv
-/env/*
+.venv/*
 
-/pdfs/*
-/dados/*
+old
+pdfs/*
+dados/*
 
 tmp
