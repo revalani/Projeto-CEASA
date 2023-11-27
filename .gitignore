@@ -1,9 +1,13 @@
 .vscode
 .ipynb_checkpoints
-.venv/*
+.venv/
 
 old
-pdfs/*
+*pdfs
 dados/*
 
+estrutura
+
+
 tmp
+tmp_*
